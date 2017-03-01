@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Favorite Contacts</string>
+    <string-array name="strArray_contact_names">
+        <item>Peter Pan</item>
+        <item>Captain Jack Sparrow</item>
+        <item>Bilbo Baggins</item>
+    </string-array>
+
+    <string name="sms_body">Hi</string>
+
+    <string-array name="contact_numbers">
+        <item>2189405512</item>
+        <item>+263775716382</item>
+        <item>+263773067931</item>
+    </string-array>
+</resources>
